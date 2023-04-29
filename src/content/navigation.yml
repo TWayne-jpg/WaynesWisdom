@@ -1,0 +1,15 @@
+navbar: # required
+  signatureNavItem: # optional
+    title: 'BIGBOiWAYNE'
+    href: '/'
+  navItems:  # required
+    - title: 'Movies'
+      href: '/movies'
+    - title: 'Books'
+      href: '/books'
+footer: # required
+  navItems: # required
+  
+  imageNavItems: # optional
+    youtubeUrl: 'https://www.youtube.com/channel/UCkolq4MmR5kmheNMe7sgxtg'
+    githubUrl: 'https://github.com/'

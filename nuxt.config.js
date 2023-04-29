@@ -17,7 +17,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: "Enter your site description here."
+        content: "Just a man aspiring to become gigachad"
       },
       { name: 'format-detection', content: 'telephone=no' }
     ],
