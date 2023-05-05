@@ -8,4 +8,5 @@ tags: []
 
 Welcome to my book section!
 
-Here in this section will contain posts of book reviews. 
+This is where all of my book reviews will be, as well as my required readings list for my followers
+
